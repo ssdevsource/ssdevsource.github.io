@@ -33,3 +33,7 @@ Ads can be turned off for 6 months for 10 shares of the app or 10 minutes of wat
 ## Children
 
 The app is not meant for children under 13.
+
+## Contact
+
+Questions about the app or this policy: sashoelectronics@gmail.com
