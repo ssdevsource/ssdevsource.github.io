@@ -11,7 +11,7 @@ CarKo is an Android app for the costs, fuel and service of your car. This is the
 - **No accounts.** Your cars, costs, fill-ups and service schedule are kept only in the phone's memory.
 - If backup to your Google account is on, Android copies this data too, as it does for other apps.
 - **Receipts.** They are captured with the Google Play services scanner and read on the phone itself with ML Kit. The photo is not uploaded anywhere.
-- **Backup and Excel.** The files are saved only where you save or send them.
+- **Backup and Excel.** The files are saved only where you save or send them. With “Automatic backup” on, every week to the file you picked.
 - **Reminders.** They are worked out on the phone. No data is sent.
 
 ## Fuel prices (optional)
