@@ -2,7 +2,7 @@
 
 # Privacy policy – CarKo (English)
 
-Last change: 22 Oct 2026
+Last change: 23 Oct 2026
 
 CarKo is an Android app for the costs, fuel and service of your car. This is the same text as in the app ("Settings → Privacy policy").
 
@@ -12,11 +12,13 @@ CarKo is an Android app for the costs, fuel and service of your car. This is the
 - If backup to your Google account is on, Android copies this data too, as it does for other apps.
 - **Receipts.** They are captured with the Google Play services scanner and read on the phone itself with ML Kit. The photo is not uploaded anywhere.
 - **Backup and Excel.** The files are saved only where you save or send them. With “Automatic backup” on, every week to the file you picked.
+- **The year card.** It is made on the phone and goes only where you share it.
+- **Vignette check.** Only when you tap “Check with BGTOLL” in “Service”, the registration plate goes to check.bgtoll.bg of the Road Infrastructure Agency; only the vignette's dates are saved in the schedule. Nothing is checked by itself.
 - **Reminders.** They are worked out on the phone. No data is sent.
 
 ## Fuel prices (optional)
 
-Only if you share prices (asked once; stopped in "Settings → Share fuel prices"): when you save a fill-up with a station picked from the list, and when you report prices, the station, the town, the fuel, the price, whether it came from a receipt and the time go to CarKo's server (Google Firebase, Frankfurt, EU) with an anonymous ID that Firebase creates for the app. No name, car, mileage or location. Other drivers see the prices. The week's points stay on the phone. The station is also recognised from the receipt: the till's number and the station's name and address from the receipt are remembered on the phone and, if you share, go to the server together with the station, so other drivers' phones recognise it too.
+While price sharing is on (the default; turned off with the switch in the fill-up form or in "Settings → Share fuel prices"): when you save a fill-up with a station picked from the list, and when you report prices, the station, the town, the fuel, the price, whether it came from a receipt and the time go to CarKo's server (Google Firebase, Frankfurt, EU) with an anonymous ID that Firebase creates for the app. No name, car, mileage or location. Other drivers see the prices. The week's points stay on the phone. The station is also recognised from the receipt: the till's number and the station's name and address from the receipt are remembered on the phone and, if you share, go to the server together with the station, so other drivers' phones recognise it too.
 
 ## Stations
 
