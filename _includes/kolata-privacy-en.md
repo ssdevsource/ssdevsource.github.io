@@ -2,7 +2,7 @@
 
 # Privacy policy – CarKo (English)
 
-Last change: 24 Oct 2026
+Last change: 26 Oct 2026
 
 CarKo is an Android app for the costs, fuel and service of your car. This is the same text as in the app ("Settings → Privacy policy").
 
@@ -18,7 +18,17 @@ CarKo is an Android app for the costs, fuel and service of your car. This is the
 
 ## Fuel prices (optional)
 
-While price sharing is on (the default; turned off with the switch in the fill-up form or in "Settings → Share fuel prices"): when you save a fill-up with a station picked from the list, and when you report prices, the station, the town, the fuel, the price, whether it came from a receipt and the time go to CarKo's server (Google Firebase, Frankfurt, EU) with an anonymous ID that Firebase creates for the app. No name, car, mileage or location. Other drivers see the prices. The week's points stay on the phone. The station is also recognised from the receipt: the till's number and the station's name and address from the receipt are remembered on the phone and, if you share, go to the server together with the station, so other drivers' phones recognise it too.
+While price sharing is on (the default; turned off with the switch in the fill-up form or in "Settings → Share fuel prices"): when you save a fill-up with a station picked from the list, and when you report prices, the station, the town, the fuel, the price, whether it came from a receipt and the time go to CarKo's server (Google Firebase, Frankfurt, EU) with an anonymous ID that Firebase creates for the app. No name, registration plate, VIN, mileage or location. Other drivers see the prices. The week's points stay on the phone. The station is also recognised from the receipt: the till's number and the station's name and address from the receipt are remembered on the phone and, if you share, go to the server together with the station, so other drivers' phones recognise it too.
+
+**Service schedules.** With the same switch, the car's model from the app's table and the service intervals you change (oil, filters, belt and the like; km and months) go to the server too, so other cars of that model start with the intervals at least two drivers keep. For a car the table does not know yet, its make and model (no nicknames), year and fuel go, so we can add it in a later version.
+
+## Anonymous model statistics (optional)
+
+While it is on (the default; turned off in "Settings → Anonymous statistics"): once a month, for each car in the app's table, the model, year, fuel, km driven in the last 12 months (rounded to 500), real consumption per 100 km, fuel cost per km and service costs (rounded to 50 €) go to CarKo's server with the anonymous ID and a one-way fingerprint of the car, so each car counts once. Nobody sees single cars; only averages of at least 20 cars are shown.
+
+## Insurance quotes
+
+When the liability insurance or the casco ends within 14 days, "Compare quotes" on the dashboard opens a Google search with general words ("compare car liability insurance quotes") in the browser. Nothing about the car or you is sent. With CarKo Pro the button does not show.
 
 ## Stations
 
