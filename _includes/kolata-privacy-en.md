@@ -2,19 +2,29 @@
 
 # Privacy policy – CarKo (English)
 
-Last change: 26 Oct 2026
+Last change: 3 Nov 2026
 
 CarKo is an Android app for the costs, fuel and service of your car. This is the same text as in the app ("Settings → Privacy policy").
 
 ## What data there is and where it stays
 
-- **No accounts.** Your cars, costs, fill-ups and service schedule are kept only in the phone's memory.
+- **An account is optional.** Your cars, costs, fill-ups and service schedule are kept in the phone's memory; they leave it only if you sign in with Google (see below).
 - If backup to your Google account is on, Android copies this data too, as it does for other apps.
 - **Receipts.** They are captured with the Google Play services scanner and read on the phone itself with ML Kit. The photo is not uploaded anywhere.
 - **Backup, Excel and CSV.** The files are saved only where you save or send them. With “Automatic backup” on, every week to the file you picked. A file you import (Fuelio, Drivvo, a spreadsheet) is read on the phone only.
 - **The year card.** It is made on the phone and goes only where you share it.
 - **Vignette check.** Only when you tap “Check with BGTOLL” in “Service”, the registration plate goes to check.bgtoll.bg of the Road Infrastructure Agency; only the vignette's dates are saved in the schedule. Nothing is checked by itself.
 - **Reminders.** They are worked out on the phone. No data is sent.
+
+## Google sign-in, sync and family (optional)
+
+Without signing in, everything works as before. If you tap "Sign in with Google" (Profile, in "Settings"), Firebase Authentication links the sign-in to your anonymous account and gets your name and e-mail from Google; you can change the first name in Profile.
+
+- **Sync.** Your cars, records and schedule are also kept in Firestore, a Google Cloud server in the EU (Frankfurt, europe-west3), and can be read only by your account and the people you share a car with. The file on the phone stays the main one: signing out does not delete it.
+- **Family.** The members of a shared car see its records, the first names of the others and who added each record.
+- **Invites.** A code works once and is valid for 7 days.
+
+Sync data is not sold and is not used for ads.
 
 ## Fuel prices (optional)
 
@@ -62,7 +72,9 @@ CarKo Pro removes the ads for good and allows more than 2 cars and unlimited exp
 
 ## Deletion
 
-The anonymous data on the server cannot be linked to you. For questions and deletion, write to the address below.
+**Deleting your account:** in the app (Profile → "Delete account") or by e-mail to the address below, within 30 days. It removes the account, the cars you own (or hands them to a family member), your memberships in other cars, your shared prices, tills, intervals, statistics and invite code. Stations you added or corrected stay for all drivers, no longer linked to you. The data on the phone stays unless you choose otherwise. More: https://ssdevsource.github.io/kolata/delete/
+
+Without signing in, the anonymous data on the server cannot be linked to you. With Google sign-in, your account links it; deleting the account removes it. We do not sell personal data. For questions, write to the address below.
 
 ## Children
 
