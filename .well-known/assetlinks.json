@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "bg.zuck.kolata",
+      "sha256_cert_fingerprints": [
+        "91:A3:57:5C:28:07:1B:AD:07:47:65:6B:94:45:FC:8E:84:9A:CB:EF:9E:3C:13:82:91:20:1B:9C:43:8C:09:BD",
+        "D7:92:6D:CC:AF:9E:B5:2D:36:F3:77:86:78:CA:F8:6C:AA:9B:12:69:6D:04:8D:5E:11:30:7A:D5:E8:EE:AB:4E"
+      ]
+    }
+  }
+]

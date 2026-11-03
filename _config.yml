@@ -1,0 +1,2 @@
+# Jekyll skips folders that start with a dot; the Android App Links file lives in .well-known (3.1, family sharing).
+include: [".well-known"]
