@@ -2,7 +2,7 @@
 
 # Privacy policy – CarKo (English)
 
-Last change: 3 Nov 2026
+Last change: 4 Nov 2026
 
 CarKo is an Android app for the costs, fuel and service of your car. This is the same text as in the app ("Settings → Privacy policy").
 
@@ -10,7 +10,7 @@ CarKo is an Android app for the costs, fuel and service of your car. This is the
 
 - **An account is optional.** Your cars, costs, fill-ups and service schedule are kept in the phone's memory; they leave it only if you sign in with Google (see below).
 - If backup to your Google account is on, Android copies this data too, as it does for other apps.
-- **Receipts.** They are captured with the Google Play services scanner and read on the phone itself with ML Kit. The photo is not uploaded anywhere.
+- **Receipts.** They are captured with the Google Play services scanner, and their text and QR code are read on the phone itself with ML Kit. The photo is not uploaded anywhere.
 - **Backup, Excel and CSV.** The files are saved only where you save or send them. With “Automatic backup” on, every week to the file you picked. A file you import (Fuelio, Drivvo, a spreadsheet) is read on the phone only.
 - **The year card.** It is made on the phone and goes only where you share it.
 - **Vignette check.** Only when you tap “Check with BGTOLL” in “Service”, the registration plate goes to check.bgtoll.bg of the Road Infrastructure Agency; only the vignette's dates are saved in the schedule. Nothing is checked by itself.
@@ -47,6 +47,8 @@ The list comes from OpenStreetMap (© OpenStreetMap contributors, ODbL licence).
 ## Location
 
 Only if you allow it with the "Nearby" button, and only on the phone: it sorts the stations by distance and picks the town. It is not stored and not sent anywhere.
+
+**In the car (Android Auto).** The "Cheapest nearby" screen uses the location only if you allow it on the phone, only while it is open in the car, and only in memory: it finds the stations around and sorts them by distance. It is not stored and not sent anywhere. The station's position goes to your navigation app only when you tap "Navigate". After that the app remembers only which station you picked (no position), to ask after the drive whether you filled up there, and forgets it after 4 hours at the latest.
 
 ## Ads
 
