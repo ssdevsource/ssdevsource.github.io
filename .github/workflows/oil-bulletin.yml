@@ -1,0 +1,29 @@
+name: Fuel price defaults (EU Weekly Oil Bulletin)
+
+on:
+  schedule:
+    - cron: '17 6 * * 3'   # the bulletin comes out on Mondays; Wednesday leaves time for it
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Download the bulletin and write kolata/prices/bg.json
+        run: node .github/scripts/oil-bulletin.mjs kolata/prices/bg.json
+      - name: Commit if changed
+        run: |
+          if [ -n "$(git status --porcelain kolata/prices)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add kolata/prices/bg.json
+            git commit -m "Fuel price defaults: EU Weekly Oil Bulletin"
+            git push
+          fi
