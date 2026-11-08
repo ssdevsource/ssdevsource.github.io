@@ -30,6 +30,8 @@ Sync data is not sold and is not used for ads.
 
 While price sharing is on (the default; turned off with the switch in the fill-up form or in "Settings → Share fuel prices"): when you save a fill-up with a station picked from the list, and when you report prices, the station, the town, the fuel, the price, whether it came from a receipt and the time go to CarKo's server (Google Firebase, Frankfurt, EU) with an anonymous ID that Firebase creates for the app. No name, registration plate, VIN, mileage or location. Other drivers see the prices. The week's points stay on the phone. The station is also recognised from the receipt: the till's number and the station's name and address from the receipt are remembered on the phone and, if you share, go to the server together with the station, so other drivers' phones recognise it too.
 
+The app downloads the weekly average fuel prices (European Commission, Weekly Oil Bulletin) from the CarKo site to show a guide price until a driver reports one. Nothing is sent.
+
 **Service schedules.** With the same switch, the car's model from the app's table and the service intervals you change (oil, filters, belt and the like; km and months) go to the server too, so other cars of that model start with the intervals at least two drivers keep. For a car the table does not know yet, its make and model (no nicknames), year and fuel go, so we can add it in a later version.
 
 ## Anonymous model statistics (optional)
