@@ -20,7 +20,7 @@ permalink: /kolata/delete/
 - акаунтът;
 - колите, които притежаваш (или се предават на член на семейството, ако си избрал това);
 - членството ти в други споделени коли;
-- споделените ти цени, касовите апарати, интервалите, статистиката и кодът ти за покани.
+- споделените ти цени, сигналите за зарядни, касовите апарати, интервалите, статистиката и кодът ти за покани.
 
 Данните в телефона остават, освен ако избереш друго.
 
@@ -42,7 +42,7 @@ You have an account only if you signed in with "Sign in with Google". Without si
 - the account;
 - the cars you own (or handed to a family member, if you chose that);
 - your memberships in other shared cars;
-- your shared prices, tills, intervals, statistics and your invite code.
+- your shared prices, charger reports, tills, intervals, statistics and your invite code.
 
 The data on the phone stays unless you choose otherwise.
 

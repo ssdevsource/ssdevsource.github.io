@@ -32,6 +32,8 @@ While price sharing is on (the default; turned off with the switch in the fill-u
 
 The app downloads the weekly average fuel prices (European Commission, Weekly Oil Bulletin) from the CarKo site to show a guide price until a driver reports one. Nothing is sent.
 
+**Chargers that don't work.** Only when you tap "Send" or "Works again" for a public charger, the charger, the point, what is wrong and the time go to CarKo's server with the anonymous ID. Other drivers see it, and the server deletes it after a day.
+
 **Service schedules.** With the same switch, the car's model from the app's table and the service intervals you change (oil, filters, belt and the like; km and months) go to the server too, so other cars of that model start with the intervals at least two drivers keep. For a car the table does not know yet, its make and model (no nicknames), year and fuel go, so we can add it in a later version.
 
 ## Anonymous model statistics (optional)
@@ -76,7 +78,7 @@ CarKo Pro removes the ads for good and allows more than 2 cars and unlimited exp
 
 ## Deletion
 
-**Deleting your account:** in the app (Profile → "Delete account") or by e-mail to the address below, within 30 days. It removes the account, the cars you own (or hands them to a family member), your memberships in other cars, your shared prices, tills, intervals, statistics and invite code. Stations you added or corrected stay for all drivers, no longer linked to you. The data on the phone stays unless you choose otherwise. More: https://ssdevsource.github.io/kolata/delete/
+**Deleting your account:** in the app (Profile → "Delete account") or by e-mail to the address below, within 30 days. It removes the account, the cars you own (or hands them to a family member), your memberships in other cars, your shared prices, charger reports, tills, intervals, statistics and invite code. Stations you added or corrected stay for all drivers, no longer linked to you. The data on the phone stays unless you choose otherwise. More: https://ssdevsource.github.io/kolata/delete/
 
 Without signing in, the anonymous data on the server cannot be linked to you. With Google sign-in, your account links it; deleting the account removes it. We do not sell personal data. For questions, write to the address below.
 
