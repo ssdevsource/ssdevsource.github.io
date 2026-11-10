@@ -13,7 +13,7 @@ permalink: /kolata/delete/
 ## Два начина
 
 1. **В приложението.** Отвори „Настройки → Профил → Изтрий профила“. Ако имаш споделени коли, приложението пита какво да стане с всяка: да я предаде на най-стария член или да я изтрие за всички.
-2. **По имейл.** Пиши на sashoelectronics@gmail.com от адреса на Google акаунта, с който си влязъл. Изтриваме профила в рамките на 30 дни.
+2. **По имейл.** Пиши на carkolabs@gmail.com от адреса на Google акаунта, с който си влязъл. Изтриваме профила в рамките на 30 дни.
 
 ## Какво се изтрива
 
@@ -35,7 +35,7 @@ You have an account only if you signed in with "Sign in with Google". Without si
 ## Two ways
 
 1. **In the app.** Open "Settings → Profile → Delete account". If you have shared cars, the app asks what to do with each: hand it to the oldest member or delete it for everyone.
-2. **By e-mail.** Write to sashoelectronics@gmail.com from the address of the Google account you signed in with. We delete the account within 30 days.
+2. **By e-mail.** Write to carkolabs@gmail.com from the address of the Google account you signed in with. We delete the account within 30 days.
 
 ## What is deleted
 

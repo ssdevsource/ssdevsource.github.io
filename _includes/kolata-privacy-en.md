@@ -88,4 +88,4 @@ The app is not meant for children under 13.
 
 ## Contact
 
-Questions about the app or this policy: sashoelectronics@gmail.com
+Questions about the app or this policy: carkolabs@gmail.com
