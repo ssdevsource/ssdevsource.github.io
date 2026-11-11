@@ -10,3 +10,4 @@ A free Android app for the costs, fuel and service of your car. In English and B
 Безплатно Android приложение за разходите, горивото и обслужването на колата.
 
 - [Privacy policy / Политика за поверителност](kolata/privacy/)
+- [GroKo — privacy policy / политика за поверителност](groko/privacy/)
