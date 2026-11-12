@@ -22,7 +22,7 @@ GroKo е приложение за Android за касовите бележки,
 
 ## Реклами
 
-Приложението е безплатно и показва реклами от Google AdMob. За рекламите Google може да ползва рекламния идентификатор на устройството, IP адреса и данни за устройството, включително за персонализирани реклами, ако си дал съгласие. Бележките и покупките ти не се дават на рекламите.
+Приложението е безплатно и показва реклами от Google AdMob: в списъците, понякога на цял екран след запазена бележка и видео по желание срещу 24 часа без реклами. За рекламите Google може да ползва рекламния идентификатор на устройството, IP адреса и данни за устройството, включително за персонализирани реклами, ако си дал съгласие. Бележките и покупките ти не се дават на рекламите.
 
 В Европейския съюз съгласието се иска при първото пускане (формуляр на Google) и може да се промени от „Настройки → Реклами и поверителност“.
 
@@ -58,7 +58,7 @@ GroKo is an Android app for grocery receipts, purchases and a shopping list.
 
 ## Ads
 
-The app is free and shows ads from Google AdMob. For ads, Google may use the device's advertising ID, IP address and device data, including for personalised ads if you consent. Your receipts and purchases are never shared with ads.
+The app is free and shows ads from Google AdMob: in lists, sometimes full screen after a receipt is saved, and an optional video for 24 hours without ads. For ads, Google may use the device's advertising ID, IP address and device data, including for personalised ads if you consent. Your receipts and purchases are never shared with ads.
 
 In the EU, consent is asked on first launch (Google's form) and can be changed in "Settings → Ads and privacy".
 
